@@ -4,7 +4,6 @@ I plan to expand this project as much as I can over time.
 
 ---
 
-# About Tic-Tac-Toe
 ## A Brief History of Tic-Tac-Toe
 **Ancient Origins (c. 1300 BC):**
 The earliest known three-in-a-row boards have been found in **ancient Egypt**, carved into roofing tiles dating back to around 1300 BC — making the game over 3,000 years old.
