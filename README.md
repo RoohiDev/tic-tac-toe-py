@@ -25,9 +25,9 @@ An early variation called ***terni lapilli*** ("three pebbles at a time") was pl
 
 2. The game continues until:
 
-    -A player gets three in a row → they win! 🏆
+    - A player gets three in a row → they win! 🏆
 
-    -All 9 spaces are filled with no winner → it's a draw 🤝
+    - All 9 spaces are filled with no winner → it's a draw 🤝
 
 >**Strategy Note:** When both players play perfectly, the game will always end in a draw.
 
