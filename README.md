@@ -33,5 +33,8 @@ An early variation called ***terni lapilli*** ("three pebbles at a time") was pl
 ---
 
 # Tasks
-- [ ] Add a feature to ask players if they want to play again
+- [x] Add a feature to ask players if they want to play again
+- [ ] Add colors to the game text
 - [ ] Add player names
+- [ ] Add a scorig system
+- [ ] add a GUI
